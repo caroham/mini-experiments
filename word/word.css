@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #094949;
+}
+
+.letter {
+    font-size: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #9298eb;
+    margin: 2rem;
+    cursor: pointer;
+}
+
+.letter-container {
+    display: inline-block;
+}
+
+.letters-outer-container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25%;
+}

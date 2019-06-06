@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+.circle-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: linear-gradient(to bottom right, rgb(57, 91, 245), 70%, rgb(214, 191, 230));
+    position: fixed;
+    z-index: 0;
+}
+
+.circle-2 {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    background: linear-gradient(to bottom right, transparent, 80%, rgb(134, 102, 132));
+    position: fixed;
+    top: 32px;
+    left: 24px;
+    z-index: 1;
+}
