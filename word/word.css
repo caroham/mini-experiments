@@ -8,7 +8,7 @@ body {
 }
 
 .letter {
-    font-size: 4rem;
+    font-size: 6rem;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     color: #9298eb;
@@ -24,5 +24,6 @@ body {
     width: 100%;
     margin: 0 auto;
     text-align: center;
-    padding-top: 25%;
+    /* padding-top: 15%; */
+    vertical-align: middle;
 }
